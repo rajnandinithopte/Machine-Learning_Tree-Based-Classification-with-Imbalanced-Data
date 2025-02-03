@@ -58,3 +58,7 @@ The dataset, sourced from the **APS Failure dataset** (UCI Machine Learning Repo
 - **Re-trained XGBoost** with L1-regularized logistic regression after SMOTE.
 - **Repeated cross-validation and performance analysis**.
 - **Compared results of the SMOTE-adjusted model vs. the original model**.
+
+---
+## 📌 **Note**
+This repository contains a **Jupyter Notebook** detailing each step, along with **results and visualizations**.
