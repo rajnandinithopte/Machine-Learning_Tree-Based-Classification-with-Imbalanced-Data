@@ -6,7 +6,7 @@ This project focuses on **tree-based classification methods** applied to the **A
 ---
 
 ## 🔷 Dataset Description
-The dataset, sourced from the **APS Failure dataset** (UCI Machine Learning Repository), consists of:
+The APS failure dataset, sourced from the from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/APS+Failure+at+Scania+Trucks), consists of:
 - **60,000 training samples** (1,000 positive cases, highly imbalanced).
 - **171 total columns**, including one target class column.
 - **All attributes are numerical**.
